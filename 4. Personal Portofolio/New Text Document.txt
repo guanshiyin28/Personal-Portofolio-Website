@@ -1,0 +1,25 @@
+Head
+<!-- #CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- #box icon -->
+    
+  <link rel="stylesheet"
+  href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  <!--remox icon-->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+Body
+
+
+
+
+<script src="./script.js"></script>
+  
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init({
+offset:300,
+duration:1400,
+  });
+</script>
+
