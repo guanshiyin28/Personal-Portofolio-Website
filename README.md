@@ -4,7 +4,7 @@
     Personal Portofolio Website
   </h1>
     <p align=justify>
-      HackerRank is a technology company that focuses on competitive programming challenges for both consumers and businesses. Developers compete by writing programs according to provided specifications. HackerRank's programming challenges can be solved in a variety of programming languages (including Java, C++, PHP, Python, SQL, and JavaScript) and span multiple computer science domains.
+      This repository showcases personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of professional journey and creative work.
     </p>
 </div>
 <!--About End-->
@@ -20,19 +20,19 @@
   </h2>
 </div>
   <p align=justify>
-    This repository is created to store and manage solutions that have been completed on the HackerRank platform. The primary objectives of this repository are:
+    This repository houses personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
     <ul>
       <li>
-        <strong>Sharing Knowledge: </strong>To provide a learning resource for both novice and experienced programmers.
+        <strong>Self-Promotion: </strong>Highlighting abilities and achievements.
       </li>
       <li>
-        <strong>Personal Documentation: </strong>To track progress in solving programming problems.
+        <strong>Project Showcase: </strong>Displaying a curated collection of work.
       </li>
       <li>
-        <strong>Collaboration: </strong>To enable users to contribute, provide feedback, or improve existing solutions.
+        <strong>Professional Networking: </strong>Connecting with potential employers and collaborators.
       </li>
       <li>
-        <strong>Quick Reference: </strong>To provide a place to find solutions to similar problems.
+        <strong>Personal Branding:</strong>Establishing a strong online identity.
       </li>
     </ul>
   </p>
@@ -48,104 +48,51 @@
     Table of Contents
   </h2>
   <h3>
-    Prepare
+    Personal Portofolio Website
   </h3>
   <table >
     <!--Header-->
     <thead align=center>
-      <th>NO</th> <th>LANGUAGES</th> <th>LINK</th>
+      <th>NO</th> <th>TITLE</th> <th>LINK</th>
     </thead>
     <!--Header End-->
     <tbody align=center>
       <!-- 1 -->
       <tr>
         <td>1</td>
-        <td>Ruby</td>
+        <td>Option 1</td>
         <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Ruby/Introduction">Introduction</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Ruby/Control%20Structures">Control Structures</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Ruby/Arrays%20%26%20Hashes">Arrays & Hashes</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Ruby/Enumerables">Enumerables</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Ruby/Methods">Methods</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Ruby/Strings">Strings</a></li>
-          </ul>
+            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/1.%20Personal%20Portofolio">Click This!</a>
         </td>
       </tr>
       <!-- 1 -->
       <!-- 2 -->
       <tr>
         <td>2</td>
-        <td>Python</td>
+        <td>Option 2</td>
         <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Introduction">Introduction</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Basic%20Data%20Types">Basic Data Types</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Strings">Strings</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Sets">Sets</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Math">Math</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Itertools">Itertools</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Collections">Collections</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Date%20and%20Time">Date and Time</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Errors%20and%20Exceptions">Errors and Exceptions</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Classes">Classes</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Built-Ins">Built-Ins</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Python%20Functionals">Python Functionals</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Regex%20and%20Parsing">Regex and Parsing</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/XML">XML</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Closures%20and%20Decorators">Closures and Decorators</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Numpy">Numpy</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Python/Debugging">Debugging</a></li>
-          </ul>
+            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/2.%20Personal%20Portofolio">Click This!</a>
         </td>
       </tr>
       <!-- 2 -->
       <!-- 3 -->
       <tr>
         <td>3</td>
-        <td>C</td>
+        <td>Option 3</td>
         <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Introduction">Introduction</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Conditionals%20and%20Loops">Conditionals and Loops</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Arrays%20and%20Strings">Arrays and Strings</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Functions">Functions</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C/Structs%20and%20Enums">Structs and Enums</a></li>
-          </ul>
+            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/3.%20Personal%20Portfolio">Click This!</a>
         </td>
       </tr>
       <!-- 3 -->
       <!-- 4 -->
       <tr>
         <td>4</td>
-        <td>C++</td>
+        <td>Option 4</td>
         <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Introduction">Introduction</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Strings">Strings</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Classes">Classes</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/STL">STL</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Inheritance">Inheritance</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Debugging">Debugging</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/C%2B%2B/Other%20Concepts">Other Concepts</a></li>
-          </ul>
+            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/4.%20Personal%20Portofolio">Click This!</a>
         </td>
       </tr>
       <!-- 4 -->
-      <!-- 5 -->
-      <tr>
-        <td>5</td>
-        <td>Linux Shell</td>
-        <td>
-          <ul align=left>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Bash">Bash</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Text%20Processing">Text Processing</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Arrays%20in%20Bash">Arrays in Bash</a></li>
-            <li><a href="https://github.com/guanshiyin28/HackerRank/tree/master/Prepare/Linux%20Shell/Grep%20Sed%20Awk">Grep Sed Awk</a></li>
-          </ul>
-        </td>
-      </tr>
-      <!-- 5 -->
     </tbody>
   </table>
 </div>
