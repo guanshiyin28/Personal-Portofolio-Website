@@ -1,110 +1,43 @@
-<!--About-->
 <div align=center>
-  <h1>
-    Personal Portofolio Website
-  </h1>
-    <p align=justify>
-      This repository showcases personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of professional journey and creative work.
-    </p>
+  
+![Demo](https://github.com/user-attachments/assets/ddff652e-1aa9-4795-8454-6165b2a01fce)
 </div>
-<!--About End-->
 
-<!--Gap-->
-<hr><br><br>
-<!--Gap End-->
-
-<!--Purpose-->
-<div align=center>
-  <h2>
-    Purpose of This Repository
-  </h2>
-</div>
-  <p align=justify>
-    This repository houses personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
-    <ul>
-      <li>
-        <strong>Self-Promotion: </strong>Highlighting abilities and achievements.
-      </li>
-      <li>
-        <strong>Project Showcase: </strong>Displaying a curated collection of work.
-      </li>
-      <li>
-        <strong>Professional Networking: </strong>Connecting with potential employers and collaborators.
-      </li>
-      <li>
-        <strong>Personal Branding:</strong>Establishing a strong online identity.
-      </li>
-    </ul>
-  </p>
-<!--Purpose End-->
-
-<!--Gap-->
+# Personal Portofolio Website
+This repository showcases personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of professional journey and creative work.
 <hr><br>
-<!--Gap End-->
 
-<!--Table of Contents-->
+## Purpose of This Repository
+This repository houses personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
+* **Self-Promotion:** Highlighting abilities and achievements.
+* **Project Showcase:** Displaying a curated collection of work.
+* **Professional Networking:** Connecting with potential employers and collaborators.
+* **Personal Branding:** Establishing a strong online identity.
+<hr><br>
+
+## Steps
+1. Clone this repository
+```
+git clone https://github.com/guanshiyin28/Personal-Portofolio-Website.git
+```
 <div align=center>
-  <h2>
-    Table of Contents
-  </h2>
-  <h3>
-    Personal Portofolio Website
-  </h3>
-  <table >
-    <!--Header-->
-    <thead align=center>
-      <th>NO</th> <th>TITLE</th> <th>LINK</th>
-    </thead>
-    <!--Header End-->
-    <tbody align=center>
-      <!-- 1 -->
-      <tr>
-        <td>1</td>
-        <td>Option 1</td>
-        <td>
-            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/1.%20Personal%20Portofolio">Click This!</a>
-        </td>
-      </tr>
-      <!-- 1 -->
-      <!-- 2 -->
-      <tr>
-        <td>2</td>
-        <td>Option 2</td>
-        <td>
-            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/2.%20Personal%20Portofolio">Click This!</a>
-        </td>
-      </tr>
-      <!-- 2 -->
-      <!-- 3 -->
-      <tr>
-        <td>3</td>
-        <td>Option 3</td>
-        <td>
-            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/3.%20Personal%20Portfolio">Click This!</a>
-        </td>
-      </tr>
-      <!-- 3 -->
-      <!-- 4 -->
-      <tr>
-        <td>4</td>
-        <td>Option 4</td>
-        <td>
-            <a href="https://github.com/guanshiyin28/Personal-Portofolio-Website/tree/main/4.%20Personal%20Portofolio">Click This!</a>
-        </td>
-      </tr>
-      <!-- 4 -->
-    </tbody>
-  </table>
+  
+![1](https://github.com/user-attachments/assets/82c45f88-831f-4375-a91b-444418dd4988)
 </div>
-<!--Table of Contents End-->
+2. Choose what you want
+<div align=center>
 
-<!--Gap-->
-<br>
-<!--Gap End-->
+![2](https://github.com/user-attachments/assets/e21c2c04-0a8a-4f29-be21-b3db6b51a949)
+</div>
+3. Run & see the result
+<div align=center>
+  
+![3](https://github.com/user-attachments/assets/ddff652e-1aa9-4795-8454-6165b2a01fce)
+</div>
+<hr><br>
 
-<!--Footer-->
-<p align="center">
+<div align=center>
   <a href="https://www.instagram.com/guanshiyin_/">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:72aae3,100:cadbf5&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   </a>
-</p>
+</div>
