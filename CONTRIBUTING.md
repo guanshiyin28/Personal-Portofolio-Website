@@ -8,13 +8,13 @@ Thank you for your interest in contributing to this project! Your contributions 
    - Click the `Fork` button at the top of this repository page.
 2. Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/username/Minimalist-Animated-Login.git
+   git clone https://github.com/username/Personal-Portofolio-Website.git
    ```
    - Replace `username` with your GitHub username.
 3. Create a new branch
    - Create a new branch for the feature or fix you want to add.
    ```
-   cd Minimalist-Animated-Login
+   cd Personal-Portofolio-Website
    git checkout -b your-branch-name
    ```
    - Use a descriptive branch name that reflects the feature or fix you are working on.
