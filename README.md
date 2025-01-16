@@ -3,15 +3,15 @@
 ![Demo](https://github.com/user-attachments/assets/ddff652e-1aa9-4795-8454-6165b2a01fce)
 </div>
 
-# Personal Portofolio Website
+# Personal Portfolio Website
 
-This repository showcases personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of professional journey and creative work.
+This repository showcases my personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of my professional journey and creative work.
 
 <hr><br>
 
 ## Purpose of This Repository
 
-This repository houses personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
+This repository houses my personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
 
 - **Self-Promotion:** Highlighting abilities and achievements.
 - **Project Showcase:** Displaying a curated collection of work.
@@ -20,11 +20,29 @@ This repository houses personal portfolio website, a digital showcase of my skil
 
 <hr><br>
 
-## Steps
+## Features
+
+- Responsive design for optimal viewing on all devices.
+- Interactive project gallery with detailed descriptions.
+- Contact form for easy communication.
+- Blog section to share insights and updates.
+
+<hr><br>
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Deployment:** Vercel
+
+<hr><br>
+
+## Steps to Run
 
 1. Clone this repository
 
-```
+```bash
 git clone https://github.com/guanshiyin28/Personal-Portofolio-Website.git
 ```
 
@@ -32,17 +50,27 @@ git clone https://github.com/guanshiyin28/Personal-Portofolio-Website.git
   
 ![1](https://github.com/user-attachments/assets/82c45f88-831f-4375-a91b-444418dd4988)
 </div>
+
 2. Choose what you want
 <div align=center>
 
 ![2](https://github.com/user-attachments/assets/e21c2c04-0a8a-4f29-be21-b3db6b51a949)
 
 </div>
+
 3. Run & see the result
 <div align=center>
-  
+
 ![3](https://github.com/user-attachments/assets/ddff652e-1aa9-4795-8454-6165b2a01fce)
+
 </div>
+
+<hr><br>
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 <hr><br>
 
 <div align=center>
