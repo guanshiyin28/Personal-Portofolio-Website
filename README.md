@@ -1,9 +1,3 @@
-<div align="center">
-  
-![Header](https://github.com/user-attachments/assets/8cb9e7aa-7c5a-4c4c-8ce3-e68e8b3c529e)
-
-</div>
-
 # Personal Portfolio Website
 
 This repository showcases my personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of my professional journey and creative work.
@@ -21,13 +15,8 @@ This repository houses my personal portfolio website, a digital showcase of my s
 
 <hr><br>
 
-## Demo
+## Demonstration
 
-<div align="center">
-  
-![Demo](https://github.com/user-attachments/assets/ddff652e-1aa9-4795-8454-6165b2a01fce)
-
-</div>
 
 <hr><br>
 
@@ -71,12 +60,12 @@ cd Personal-Portofolio-Website
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 <hr><br>
 
 <div align="center">
-  <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:72aae3,100:cadbf5&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-  </a>
+   <a href="https://www.instagram.com/guanshiyin_/">
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+   </a>
 </div>
