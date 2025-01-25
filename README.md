@@ -17,6 +17,50 @@ This repository houses my personal portfolio website, a digital showcase of my s
 
 ## Demonstration
 
+Here are code demonstrations of functions and components used in the portfolio website:
+
+### HTML
+
+```html
+<!-- Example of a project card -->
+<div class="project-card" id="project-1">
+  <h3 id="project-title">Project Title</h3>
+  <p id="project-description">Project description goes here.</p>
+  <a id="project-link" href="#">View Project</a>
+</div>
+```
+
+### CSS
+
+```css
+/* Example CSS for the project card */
+.project-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+```
+
+### JavaScript
+
+```javascript
+// Example function to display project details
+function displayProjectDetails(projectId) {
+  const project = projects.find((p) => p.id === projectId);
+  if (project) {
+    document.getElementById("project-title").innerText = project.title;
+    document.getElementById("project-description").innerText =
+      project.description;
+    document.getElementById("project-link").href = project.link;
+  }
+}
+```
 
 <hr><br>
 
