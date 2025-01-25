@@ -1,12 +1,12 @@
 # Personal Portfolio Website
 
-This repository showcases my personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of my professional journey and creative work.
+This repository showcases personal portfolio website, a digital platform designed to highlight my skills, projects, and experiences. It serves as a comprehensive overview of my professional journey and creative work.
 
 <hr><br>
 
 ## Purpose of This Repository
 
-This repository houses my personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
+This repository houses personal portfolio website, a digital showcase of my skills, projects, and experiences. It serves as a centralized platform for:
 
 - **Self-Promotion:** Highlighting abilities and achievements.
 - **Project Showcase:** Displaying a curated collection of work.
