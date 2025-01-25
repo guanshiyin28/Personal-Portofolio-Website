@@ -19,7 +19,7 @@ a {
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #a4b6ef;
+  background-color: #f7f7f7;
 }
 
 nav {
@@ -68,7 +68,7 @@ nav {
   padding: 1rem 2rem;
   font-size: 1rem;
   color: #fff;
-  background-color: #5d435e;
+  background-color: #393e46;
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -116,7 +116,7 @@ header .content h1 {
 
 header .content h1 span {
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 1px #c84d50;
+  -webkit-text-stroke: 1px #393e46;
 }
 
 header .content p {
@@ -163,7 +163,7 @@ section .header {
 }
 
 .features .card {
-  background-color: #5d435e;
+  background-color: #393e46;
   padding: 1rem;
   border: 2px solid transparent;
   border-radius: 15px;
@@ -222,7 +222,7 @@ section .header {
 
 .pricing .card {
   padding: 3rem 2rem;
-  background-color: #5d435e;
+  background-color: #393e46;
   display: flex;
   flex-direction: column;
   border: 2px solid transparent;
@@ -325,7 +325,7 @@ footer .column h4 {
 
 footer .column > a {
   display: block;
-  color: #5d435e;
+  color: #393e46;
   margin-bottom: 1rem;
   transition: all 0.3s ease;
 }
